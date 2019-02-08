@@ -5,7 +5,7 @@ export default class App extends React.Component<{}, {}> {
   render() {
     return (
       <View style={styles.container}>
-        <Text>dead-simple-expo-typescript-starter</Text>
+        <Text>react-native-modal-sample</Text>
       </View>
     );
   }
